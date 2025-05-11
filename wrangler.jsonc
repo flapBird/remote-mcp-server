@@ -26,10 +26,6 @@
 		{
 			"binding": "OAUTH_KV",
 			"id": "2e941bab990348348b066c6836a2a4a6"
-		},
-		{
-			"binding": "MCP_OBJECT",
-			"id": "f6cbe70d060642b59b141ab735cc2625"
 		}
 	],
 	"observability": {
